@@ -1,10 +1,10 @@
 ### Olá Eu Sou Eduardo Lizarraga 👋
 
 
-- 🔭 Trabalho como Back-End ...
-- 🌱 Estudando Engenharia de SoftWare, Typescript, nodejs express, Django, Flask, .Net ...
-- 💬 Pregunte-me sobre Javascript, Phyton, C# ...
-- 😄 Pronouns: ele/dele ...
+- 🔭 `Trabalho como Back-End`
+- 🌱 `Estudando Engenharia de SoftWare, Typescript, nodejs express, Django, Flask, .Net...`
+- 💬 `Pregunte-me sobre Javascript, Phyton, C# ...`
+- 😄 `Pronouns: ele/dele ...`
 
 <div align="center">
   <a href="https://github.com/elizarraga27">
